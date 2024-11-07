@@ -1,0 +1,27 @@
+{
+  "name": "latihan-express",
+  "version": "1.0.0",
+  "description": "latihan express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jvascript"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gazfath12/latihan-express.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "ts"
+  ],
+  "author": "gaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gazfath12/latihan-express/issues"
+  },
+  "homepage": "https://github.com/gazfath12/latihan-express#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

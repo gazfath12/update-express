@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "8ece0799-5fd0-4f55-a56f-9767c9552736",
+		"name": "4-employees-js",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38983659"
+	},
+	"item": [
+		{
+			"name": "mendapatkan semua employeess",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "mendapatkan employees by id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "menambahkan employees",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "mengupdate employees",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "menghapus berdasrkan id",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

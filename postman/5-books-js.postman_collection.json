@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "0a1590c9-1656-4e61-bbc6-28cd97977241",
+		"name": "5-books-js",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38983659"
+	},
+	"item": [
+		{
+			"name": "mendapatkan semuanya",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "mendapatkan books by id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "menambahkan books",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "mengupdate books by id",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "hapus berdasarkan id",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

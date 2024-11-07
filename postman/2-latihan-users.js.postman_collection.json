@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "5e0d88aa-8cbc-40c5-96ca-6217d052abf4",
+		"name": "2-latihan-users.js",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38983659"
+	},
+	"item": [
+		{
+			"name": "mendapatkan semuanya",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "mendapatkan satu id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "menambahkan orders",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "mengupdate orders by id",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "menghapus orders by id",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
