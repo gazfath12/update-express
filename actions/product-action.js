@@ -1,5 +1,5 @@
 
-const {addProductGateway,  getProductByIdGateway, updateProductByIdGateway, deleteProductByIdGateway, getAllProductGateway} = require("./product-gateway")
+const {addProductGateway,  getProductByIdGateway, updateProductByIdGateway, deleteProductByIdGateway, getAllProductGateway} = require("../gateways/product-gateway")
 module.exports.addProductAction = (req, res) => {
     const product = req.body; // Mengambil data produk dari request body
     addProductGateway(product)
